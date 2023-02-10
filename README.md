@@ -5,3 +5,5 @@
 An IDE code editor written in CSharp, using ICSharpCode.AvalonEdit, if you like, please help me order a Star, thank you
 
 交流群286106964
+
+![描述](1676036865792.png)
