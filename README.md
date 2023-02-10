@@ -6,4 +6,7 @@ An IDE code editor written in CSharp, using ICSharpCode.AvalonEdit, if you like,
 
 交流群286106964
 
-![描述](1676036865792.png)
+![1](1676036865792.png)
+![2](1676036865822.png)
+![3](1676036865839.png)
+![4](1676036865859.png)
